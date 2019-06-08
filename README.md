@@ -7,6 +7,9 @@ This project is a digital re-creation of Codenames, a beloved card game at Flati
 - This repo is for the server side of this project.
 - The repo for frontend is on https://github.com/idanceinbetween/mod4-codenames-client-side/.
 
+### Demo Video
+https://www.youtube.com/watch?v=i-59hiCkqvE&list=PLmukEUT1dalh2QG-IDQ3kUcoX7QxFy7cU&index=1
+
 ## Technical Details
 
 The app:
